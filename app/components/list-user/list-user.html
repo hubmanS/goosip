@@ -1,0 +1,9 @@
+<div ng-controller="ListUserController as vm">
+  <div  ng-repeat="user in vm.users">
+    <item-user user="user"></item-user>
+  </div>
+  <div>
+    <button ng-click="vm.send()">send</button>
+  </div>
+  <div ><textarea id="text"></textarea></div>
+</div>
