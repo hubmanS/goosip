@@ -9,4 +9,4 @@ npm Install
 gulp build
 ```
 
-The browser will open on this address http://localhost:8080/#!/app
+Will run on this address http://localhost:8080/#!/app
