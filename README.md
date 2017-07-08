@@ -1,10 +1,4 @@
-step 1: npm install
-step 2: gulp build
+Paso 1: npm install
+Paso 2: gulp build
 
-
-enter to url: http://localhost:8080/#!/app
-
-
-
-
-
+Entrar a la dirección: http://localhost:8080/#!/app
