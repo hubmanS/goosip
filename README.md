@@ -1,4 +1,12 @@
-- Paso 1: npm install
-- Paso 2: gulp build
+# Gossip
+This is a site to make Brainstorming
 
-Entrar a la dirección: http://localhost:8080/#!/app
+# Installing
+After you cloned this project, go to the path where you've downloaded it and run:
+
+```
+npm Install
+gulp build
+```
+
+Will run on this address http://localhost:8080/#!/app
